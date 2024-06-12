@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivi3301
+- 👋 Hi, I’m Shivesh, Computer Science student.
 - 👀 I’m interested in coding and developing things with it.
 - 🌱 I’m currently learning linux.
 - 💻 Aspiring Devops Engineer.
